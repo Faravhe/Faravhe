@@ -12,11 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://media.giphy.com/media/48WRWGKtkR5LP1SpPs/giphy.gif" width="100px">,I am 
+### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://media.giphy.com/media/48WRWGKtkR5LP1SpPs/giphy.gif" width="50px">,I am 
 ![1](https://media.giphy.com/media/omyNSElc3uBUxXZrPa/giphy.gif)
-
- 
-![carbon](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 A person with great interest in Tech, Music and Art.
  
 - 🔭 I’m currently working on a web app.
