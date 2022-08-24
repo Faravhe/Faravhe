@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![1](https://giphy.com/gifs/r5LXJ33dfS2Y7byStO)
 
  
-![alt](https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW)
+![carbon](https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW)
 A person with great interest in Tech, Music and Art.
  
 - 🔭 I’m currently working on a web app.
