@@ -12,16 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://giphy.com/gifs/r5LXJ33dfS2Y7byStO"" width="29px">,I am 
-![1](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/name.gif)
+### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://giphy.com/stickers/Giflytics-transparent-Vf3ZKdillTMOOaOho0" width="29px">,I am 
+![1](https://giphy.com/gifs/r5LXJ33dfS2Y7byStO)
 
-<div align="center">
-
-[![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Khairnar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/faravhe/)](https://www.linkedin.com/in/vedantkhairnar/) [![Twitter Badge](http://img.shields.io/badge/-@VedantKhairnar3-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/faravhe)](https://twitter.com/VedantKhairnar3)
-
- </div>
  
-![alt](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/linkedinBack1.png)
+![alt](https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW)
 A person with great interest in Tech, Music and Art.
  
 - 🔭 I’m currently working on a web app.
