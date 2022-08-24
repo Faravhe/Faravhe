@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://media.giphy.com/media/48WRWGKtkR5LP1SpPs/giphy.gif" width="50px">,I am 
 ![1](https://media.giphy.com/media/omyNSElc3uBUxXZrPa/giphy.gif)
+<br>
 A person with great interest in Tech, Music and Art.
  
 - 🔭 I’m currently working on a web app.
