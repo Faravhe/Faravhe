@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://giphy.com/stickers/Giflytics-transparent-Vf3ZKdillTMOOaOho0" width="29px">,I am 
+### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://media.giphy.com/media/48WRWGKtkR5LP1SpPs/giphy.gif" width="100px">,I am 
 ![1](https://giphy.com/gifs/r5LXJ33dfS2Y7byStO)
 
  
-![carbon](https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW)
+![carbon](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 A person with great interest in Tech, Music and Art.
  
 - 🔭 I’m currently working on a web app.
